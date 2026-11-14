@@ -1,0 +1,21 @@
+TicketGuard 1.0.0 (3) — Android SDK 24–36+, arm64-v8a, armeabi-v7a, x86_64
+Firma de distribución verificada (APK Signature Scheme v2).
+Certificado: CN=TicketGuard, O=TicketGuard, C=MX. RSA de 3072 bits.
+SHA-256 del certificado: 8e2113bfed482340fe90eb66cae3f4b320fd9b6c0c18fdf0e738ec2188467442
+Performing Streamed Install
+Success
+Starting: Intent { cmp=mx.ticketguard.ticketguard/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: mx.ticketguard.ticketguard/.MainActivity
+TotalTime: 5835
+WaitTime: 5875
+Complete
+[63,477][1017,582] TicketGuard
+[63,603][1017,666] Tus comprobantes y garantías, en un solo lugar.
+[63,758][1017,842] Inicia sesión
+[63,884][1017,1026]
+[63,1057][1017,1199] [contraseña]
+[891,1065][1017,1191] Mostrar contraseña
+[63,1252][1017,1388] Entrar
+[63,1388][1017,1514] Crear una cuenta

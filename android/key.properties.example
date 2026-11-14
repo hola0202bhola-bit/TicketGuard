@@ -1,0 +1,4 @@
+storeFile=RUTA_ABSOLUTA_TICKETGUARD.p12
+storePassword=REEMPLAZA_ESTE_VALOR
+keyAlias=ticketguard
+keyPassword=REEMPLAZA_ESTE_VALOR
