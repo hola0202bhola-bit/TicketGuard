@@ -1,0 +1,32 @@
+name: ticketguard
+description: Archivo personal de comprobantes de compra y garantías.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_local_notifications: 19.5.0
+  flutter_timezone: 5.1.0
+  image: 4.3.0
+  image_picker: 1.2.4
+  intl: 0.20.3
+  path_provider: 2.1.6
+  supabase_flutter: 2.18.3
+  timezone: 0.10.1
+  uuid: 4.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: 6.0.0
+
+flutter:
+  uses-material-design: true
