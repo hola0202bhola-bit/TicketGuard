@@ -1,0 +1,24 @@
+Acceso anónimo a la tabla denegado -> HTTP 401
+B no puede crear a nombre de A -> HTTP 403
+Importe negativo rechazado -> HTTP 400
+A crea fila provisional -> HTTP 201
+Se impide finalizar sin foto -> HTTP 400
+B no puede escribir en la ruta de A -> HTTP 400
+Tipo de archivo rechazado -> HTTP 400
+Tamaño superior a 5 MiB rechazado -> HTTP 400
+A sube foto privada -> HTTP 200
+A finaliza -> HTTP 200
+A consulta el ticket finalizado -> HTTP 200
+A descarga la foto -> HTTP 200
+B intenta GET por UUID -> HTTP 200
+B intenta PATCH por UUID -> HTTP 200
+B intenta DELETE por UUID -> HTTP 200
+B no accede a la foto -> HTTP 400
+Sin URL pública -> HTTP 400
+A marca eliminación -> HTTP 200
+Se impide borrar fila mientras conserva foto -> HTTP 400
+A elimina el archivo -> HTTP 200
+A elimina la fila -> HTTP 200
+Registro eliminado -> HTTP 200
+Archivo eliminado, consulta sin caché CDN -> HTTP 400
+Validación en dos cuentas completada.

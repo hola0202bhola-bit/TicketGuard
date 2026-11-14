@@ -2,6 +2,7 @@
 
 Aplicación Android para fotografiar, organizar y recuperar comprobantes de compra y recibir recordatorios de garantía. Proyecto individual de modalidad A, con entrega académica el **23 de noviembre de 2026**.
 
+- [Propuesta aprobada](docs/propuesta.md)
 - [Análisis, historias de usuario, criterios y bocetos](docs/diseno.md)
 - [Matriz de pruebas, incidencias y demostración](docs/validacion.md)
 - [Repositorio privado TicketGuard](https://github.com/hola0202bhola-bit/TicketGuard)

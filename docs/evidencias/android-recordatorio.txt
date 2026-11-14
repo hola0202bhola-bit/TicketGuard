@@ -1,0 +1,20 @@
+Emulador Pixel 7, Android API 37. Compilación temporal de ensayo con la CA de la red local; lógica funcional idéntica al código de entrega.
+El sistema aceptó el permiso POST_NOTIFICATIONS y registró el recordatorio:
+    RTC_WAKEUP #39: Alarm{531046d type 0 origWhen 1794819600000 whenElapsed 194834869 mx.ticketguard.ticketguard}
+      tag=*walarm*:mx.ticketguard.ticketguard/com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+        Snapshot:
+          type=RTC_WAKEUP tag=*walarm*:mx.ticketguard.ticketguard/com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+[63,165][739,254] TicketGuard
+[802,147][928,273] Sincronizar
+[928,147][1054,273] Cerrar sesión
+[63,338][1017,443] Mis tickets
+[63,464][1017,527] Consulta tus compras y sus garantías.
+[63,585][1017,790] Próximas a vencer
+0 garantías en los próximos 30 días
+[63,837][1017,979]
+[63,1005][255,1131] Todos
+[276,1005][596,1131] Por vencer
+[63,1149][1017,1517] Aún no tienes tickets
+Toma una foto y registra tu primera compra.
+[651,2022][1038,2169] Nuevo ticket
+Sin alarmas de TicketGuard pendientes tras borrar el ticket.
